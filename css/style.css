@@ -108,12 +108,12 @@ aside
  
  body
  {
-    width:100%;
-    margin-left: 0;
+    width:96%;
+    margin-left: 10px;
  }
  .wrapper
  {
-    width:100%;
+    width:98%;
     display:block;
     margin-left: 0;
 }
@@ -122,18 +122,18 @@ nav,
 main,
 main img
 { 
-    width:100%;
+    width:102%;
 }
 
 header
 {
-  width:100%;
+  width:97%;
   height:30px;
   line-height: 5px;
 }
 aside
 {
-    width:100%;
+    width:99%;
     height:260px;
 }
  }
@@ -142,12 +142,12 @@ aside
  
  body
  {
-    width:100%;
-    margin-left: 0;
+    width:93%;
+    margin-left: 10px;
  }
  .wrapper
  {
-    width:100%;
+    width:98%;
     display:block;
     margin-left: 0;
 }
@@ -156,18 +156,18 @@ aside
     main,
     main img
 { 
-        width:100%;
+        width:103%;
 }
 
 header
 {
-  width:100%;
+  width:97%;
   height:30px;
   line-height: 5px;
 }
 aside
 {
-    width:100%;
+    width:98%;
     height:260px;
 }
  }
@@ -177,12 +177,12 @@ aside
  
  body
  {
-    width:100%;
+    width:98%;
     margin-left: 0;
  }
  .wrapper
  {
-    width:100%;
+    width:98%;
     display:block;
     margin-left: 0;
 }
@@ -191,18 +191,18 @@ aside
     main,
     main img
 { 
-        width:100%;
+        width:102%;
 }
 
 header
 {
-  width:100%;
+  width:92%;
   height:30px;
   line-height: 5px;
 }
 aside
 {
-    width:100%;
+    width:99%;
     height:260px;
 }
  }
